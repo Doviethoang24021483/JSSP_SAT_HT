@@ -1,0 +1,12 @@
+python-sat>=1.8.dev13
+ortools>=9.10
+numpy
+pandas
+matplotlib
+psutil
+# Tuy chon (can license): bo comment sau khi co license
+# docplex
+# cplex
+# gurobipy
+# Ve hinh (de bai yeu cau): https://cnsplots.farid.one/latest/
+# cnsplots

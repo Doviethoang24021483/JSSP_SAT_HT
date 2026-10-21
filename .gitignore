@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+*.cnf
+*.log
+.DS_Store
+# Ket qua tho van duoc commit (results/*.csv); chi bo qua file tam
+results/tmp/
+report/*.aux
+report/*.log
+report/*.out
+report/*.bbl
+report/*.blg
